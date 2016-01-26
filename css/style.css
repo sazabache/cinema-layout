@@ -15,7 +15,8 @@ header{
 	font-family: Roboto;
 	font-size: 15px;
 }
-.redondeado{
+input{
+
 	width: 260px;
 	height:35px;
 	border: 1px solid #D4D5D7;
@@ -23,6 +24,7 @@ header{
 	position: absolute;
 	font-family: Roboto;
 	font-size: 15px;
+
 }
 
 .buscar-icon{
@@ -30,8 +32,8 @@ header{
 	height: 20px;
 	padding: 2px 1px;
 	position: relative;
-	left: 155px;
-	top: 4px;
+	left: 230px;
+	top: 6px;
 }
 .banner{
 	background: #383838 url("../img/banner.jpg");
@@ -96,7 +98,7 @@ header{
 
  }
 
- ..clearfix:before, .clearfix:after{
+ .clearfix:before, .clearfix:after{
 	content:" ";
 	display: table;
 }
@@ -125,7 +127,7 @@ font-family: Roboto;
  	padding-left: 150px;
 
  }
- ..clearfix:before, .clearfix:after{
+ .clearfix:before, .clearfix:after{
 	content:" ";
 	display: table;
 }
